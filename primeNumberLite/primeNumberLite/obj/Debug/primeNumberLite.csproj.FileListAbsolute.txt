@@ -1,0 +1,9 @@
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumberLite\primeNumberLite\bin\Debug\primeNumberLite.exe.config
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumberLite\primeNumberLite\bin\Debug\primeNumberLite.exe
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumberLite\primeNumberLite\bin\Debug\primeNumberLite.pdb
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumberLite\primeNumberLite\obj\Debug\primeNumberLite.csprojResolveAssemblyReference.cache
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumberLite\primeNumberLite\obj\Debug\primeNumberLite.Form1.resources
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumberLite\primeNumberLite\obj\Debug\primeNumberLite.Properties.Resources.resources
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumberLite\primeNumberLite\obj\Debug\primeNumberLite.csproj.GenerateResource.Cache
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumberLite\primeNumberLite\obj\Debug\primeNumberLite.exe
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumberLite\primeNumberLite\obj\Debug\primeNumberLite.pdb
